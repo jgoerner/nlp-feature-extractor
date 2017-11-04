@@ -1,2 +1,6 @@
 nltk
 sklearn
+pandas
+numpy
+scipy
+editdistance
